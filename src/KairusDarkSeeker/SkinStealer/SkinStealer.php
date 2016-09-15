@@ -13,9 +13,7 @@
  * \______/ \__|  \__|\__|\__|  \__| \______/    \____/  \_______| \_______|\__| \_______|\__|      
  * 
  *
- * Copyright © 2016 KairusDarkSeeker
- *
- * Copyright 2016 KairusDarkSeeker
+ * Copyright (C) 2016 KairusDarkSeeker
  * 
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
